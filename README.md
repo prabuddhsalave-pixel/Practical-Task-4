@@ -3,7 +3,6 @@
 
 **Concepts used:** `CREATE DATABASE`, `CREATE TABLE`, `INSERT`, `SELECT`, `WHERE`, `AND`, `OR`, `NOT`, `BETWEEN`, `IN`, `LIKE`, `DISTINCT`, aliases, `ORDER BY`, `LIMIT`, `AVG()`
 
-> Note: Saara data fictional classroom/demo data hai.
 
 ## Setup
 
